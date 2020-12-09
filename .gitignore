@@ -20,3 +20,18 @@ Tableau
 Logos
 GIS
 *Data
+#no data
+*.csv
+*.txt
+*.rds
+*.xlsx
+*.xls
+*.zip
+*.png
+*.twbx
+*.pptx
+
+#nothing from these folders
+GIS/*
+Images/*
+Graphics/*
